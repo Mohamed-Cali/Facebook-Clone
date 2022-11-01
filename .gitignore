@@ -36,10 +36,9 @@ yarn-error.log*
 next-env.d.ts
 
 
-*.js
-.env.local
-.firebase.js
 
+.env.local
 *.json
-package-lock.json
+
+
 
